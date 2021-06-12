@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/tyxant.github.io/static/css/main.7a59157c.chunk.css",
+    "main.js": "/tyxant.github.io/static/js/main.e012e8c6.chunk.js",
+    "main.js.map": "/tyxant.github.io/static/js/main.e012e8c6.chunk.js.map",
+    "runtime-main.js": "/tyxant.github.io/static/js/runtime-main.9d70d5ef.js",
+    "runtime-main.js.map": "/tyxant.github.io/static/js/runtime-main.9d70d5ef.js.map",
+    "static/js/2.ad1f8b26.chunk.js": "/tyxant.github.io/static/js/2.ad1f8b26.chunk.js",
+    "static/js/2.ad1f8b26.chunk.js.map": "/tyxant.github.io/static/js/2.ad1f8b26.chunk.js.map",
+    "index.html": "/tyxant.github.io/index.html",
+    "static/css/main.7a59157c.chunk.css.map": "/tyxant.github.io/static/css/main.7a59157c.chunk.css.map",
+    "static/js/2.ad1f8b26.chunk.js.LICENSE.txt": "/tyxant.github.io/static/js/2.ad1f8b26.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9d70d5ef.js",
+    "static/js/2.ad1f8b26.chunk.js",
+    "static/css/main.7a59157c.chunk.css",
+    "static/js/main.e012e8c6.chunk.js"
+  ]
+}
